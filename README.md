@@ -1,5 +1,5 @@
 # Data_Finder_Apps
-## Application created by Pyinstaller
+### Application created by Pyinstaller
 
 ### An apps finds all record in any large file base on same ID in a ID list (no duplicate) prepared by you, or you can choose to enter "ID" manually.
 
