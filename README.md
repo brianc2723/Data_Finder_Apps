@@ -8,3 +8,4 @@
 - Or skip 2. leave blank, press ok.
 3. Manually enter "ID" for quick search
 4. Press summit and a new csv list is generated. It will be named as ID_ENQUIRY_RESULT (Current Date_time).csv
+5. ID in ID list not found in large .CSV file serve as database will appear in ID_ENQUIRY_RESULT (Current Date_time).csv but no futher info from the database.
